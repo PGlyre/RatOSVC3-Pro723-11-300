@@ -1,4 +1,5 @@
 .env
+.theme
 secrets.conf
 *.swp
 *.tmp
