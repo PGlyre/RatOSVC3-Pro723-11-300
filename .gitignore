@@ -3,9 +3,6 @@ secrets.conf
 *.swp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
-telegram.conf
-.theme
-/printer_data/config/RatOS
 *.bak
 *.bkp
 *.csv
